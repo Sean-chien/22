@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/seanchien/Desktop/AndroidClass/android-fundamentals-apps-v2/MaterialMe-Resource/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mdr-rTW/values-mdr-rTW.xml",
+            "map": [
+                {
+                    "source": "/Users/seanchien/Desktop/AndroidClass/android-fundamentals-apps-v2/MaterialMe-Resource/app/src/main/res/values-mdr-rTW/strings.xml",
+                    "from": {
+                        "startLines": "38,23,9,3,5,6,7,4",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "1610,1013,624,56,158,208,278,106",
+                        "endLines": "51,35,21,3,5,6,7,4",
+                        "endColumns": "12,19,19,49,49,69,344,51",
+                        "endOffsets": "2131,1603,1007,101,203,273,618,153"
+                    },
+                    "to": {
+                        "startLines": "2,16,29,42,43,44,45,46",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,581,1176,1564,1614,1664,1734,2079",
+                        "endLines": "15,28,41,42,43,44,45,46",
+                        "endColumns": "12,19,19,49,49,69,344,51",
+                        "endOffsets": "576,1171,1559,1609,1659,1729,2074,2126"
+                    }
+                }
+            ]
+        }
+    ]
+}
